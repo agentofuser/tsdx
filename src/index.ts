@@ -188,7 +188,7 @@ prog
           },
         },
         prettier: {
-          printWidth: 80,
+          printWidth: 79,
           proseWrap: 'always',
           semi: true,
           singleQuote: true,
